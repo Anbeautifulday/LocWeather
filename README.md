@@ -97,8 +97,7 @@ public void sendRetrofit(String place) {
 	});
 }
 ```
-![](https://github.com/Anbeautifulday/LocWeather/tree/master/weathersort/show1.png)
-![](https://github.com/Anbeautifulday/LocWeather/tree/master/weathersort/show2.png)
-![](https://github.com/Anbeautifulday/LocWeather/tree/master/weathersort/show3.png)
-
+![image](https://github.com/Anbeautifulday/LocWeather/blob/master/weathersort/show1.png)
+![image](https://github.com/Anbeautifulday/LocWeather/blob/master/weathersort/show2.png)
+![image](https://github.com/Anbeautifulday/LocWeather/blob/master/weathersort/show3.png)
 
