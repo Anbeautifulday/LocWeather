@@ -2,7 +2,7 @@
 1. 地图定位
 2. 天气查询
 
-###　实现细节
+### 实现细节
 1. 搜索框
 2. AlertDialog实现搜索展示列表
 3. 使用高德地图API
@@ -97,5 +97,8 @@ public void sendRetrofit(String place) {
 	});
 }
 ```
+![](https://github.com/Anbeautifulday/LocWeather/tree/master/weathersort/show1.png)
+![](https://github.com/Anbeautifulday/LocWeather/tree/master/weathersort/show2.png)
+![](https://github.com/Anbeautifulday/LocWeather/tree/master/weathersort/show3.png)
 
 
